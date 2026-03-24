@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Remember",
+  "base_artist": "yama",
+  "createdAt": "2026-03-24T11:10:02.947966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How They Remember You",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_How_They_Remember_You_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wanna Remember (feat. Carrie Underwood) [Acoustic]",
+      "artist": "NEEDTOBREATHE",
+      "has_synced": false,
+      "path": "select/02_I_Wanna_Remember_(feat._Carrie_Underwood)_[Acoustic]_NEEDTOBREATHE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remember You",
+      "artist": "Conro",
+      "has_synced": false,
+      "path": "select/03_Remember_You_Conro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remember You",
+      "artist": "Conro",
+      "has_synced": true,
+      "path": "select/04_Remember_You_Conro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/05_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/06_(Remember_Me)_I'm_the_One_Who_Loves_You_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Night to Remember",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/07_A_Night_to_Remember_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Night To Remember (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/08_A_Night_To_Remember_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Remember Loving You",
+      "artist": "John Conlee",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Remember_Loving_You_John_Conlee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Remember Me (Before You)",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Remember_Me_(Before_You)_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Forgot to Remember to Forget",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/11_I_Forgot_to_Remember_to_Forget_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Remember",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/12_I_Remember_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Remember Me",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/13_Please_Remember_Me_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Please Remember Me",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/14_Please_Remember_Me_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Remember Her Name",
+      "artist": "Mickey Guyton",
+      "has_synced": true,
+      "path": "select/15_Remember_Her_Name_Mickey_Guyton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Remember When",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/16_Remember_When_Alan_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_yama.txt"
+    }
+  ]
+}
